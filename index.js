@@ -34,7 +34,8 @@ const displayHelp = () => {
   console.log("7. All locations sorted by coefficient");
   console.log("8. Top 3 and lowest 3 salaries");
   console.log("9. Top 3 and lowest 3 locations");
-  console.log("10. Remove NOT apply and NOT open");
+  console.log("10. Refine by removing NOT open at Gitlab");
+  console.log("(or Ctrl+C to stop execution)");
   console.log("---------------------------------------");
   console.log("");
   console.log("");
