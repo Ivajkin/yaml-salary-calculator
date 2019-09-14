@@ -1,0 +1,792 @@
+- country: United States
+  area: Connecticut
+  locationFactor: 63.333
+- country: United States
+  area: Maine
+  locationFactor: 63.333
+- country: United States
+  area: Everywhere else, Massachusetts
+  locationFactor: 73.561
+- country: United States
+  area: Boston, Massachusetts
+  locationFactor: 79.117 
+- country: United States
+  area: New Hampshire
+  locationFactor: 63.333
+- country: United States
+  area: Rhode Island
+  locationFactor: 63.333
+- country: United States
+  area: Vermont
+  locationFactor: 63.333
+- country: United States
+  area: New Jersey
+  locationFactor: 63.333
+- country: United States
+  area: Everywhere else, New York
+  locationFactor: 63.333
+- country: United States
+  area: NYC, New York
+  locationFactor: 85.556
+- country: United States
+  area: Pennsylvania
+  locationFactor: 68.889
+- country: United States
+  area: Indiana
+  locationFactor: 63.333
+- country: United States
+  area: Everywhere else, Michigan
+  locationFactor: 63.333
+- country: United States
+  area: Detroit, Michigan
+  locationFactor: 68.889  
+- country: United States
+  area: Everywhere else, Ohio
+  locationFactor: 63.333
+- country: United States
+  area: Columbus, Ohio
+  locationFactor: 68.889
+- country: United States
+  area: Wisconsin
+  locationFactor: 63.333
+- country: United States
+  area: Chicago, Illinois
+  locationFactor: 74.444
+- country: United States
+  area: Everywhere else, Illinois
+  locationFactor: 63.333
+- country: United States
+  area: Iowa
+  locationFactor: 68.889
+- country: United States
+  area: Nebraska
+  locationFactor: 63.333
+- country: United States
+  area: Kansas
+  locationFactor: 63.333
+- country: United States
+  area: North Dakota
+  locationFactor: 63.333
+- country: United States
+  area: Everywhere else, Minnesota
+  locationFactor: 63.333
+- country: United States
+  area: Minneapolis, Minnesota
+  locationFactor: 68.889
+- country: United States
+  area: South Dakota
+  locationFactor: 63.333
+- country: United States
+  area: Missouri
+  locationFactor: 63.333
+- country: United States
+  area: Delaware
+  locationFactor: 63.333
+- country: United States
+  area: Washington DC
+  locationFactor: 78.889
+- country: United States
+  area: Everywhere else, Florida
+  locationFactor: 63.333
+- country: United States
+  area: Fort Myers, Florida
+  locationFactor: 68.889
+- country: United States
+  area: Miami/Fort Lauderdale, Florida
+  locationFactor: 70.811
+- country: United States
+  area: Jacksonville, Florida
+  locationFactor: 68.889
+- country: United States
+  area: Orlando/Tampa, Florida
+  locationFactor: 68.889
+- country: United States
+  area: Everywhere else, Georgia
+  locationFactor: 63.333
+- country: United States
+  area: Atlanta, Georgia
+  locationFactor: 68.889
+- country: United States
+  area: Maryland
+  locationFactor: 63.333
+- country: United States
+  area: Everywhere else, North Carolina
+  locationFactor: 63.333
+- country: United States
+  area: Charlotte, North Carolina
+  locationFactor: 68.889
+- country: United States
+  area: Raleigh, North Carolina
+  locationFactor: 74.444
+- country: United States
+  area: South Carolina
+  locationFactor: 63.333
+- country: United States
+  area: Virginia
+  locationFactor: 63.333
+- country: United States
+  area: West Virginia
+  locationFactor: 63.333
+- country: United States
+  area: Alabama
+  locationFactor: 63.333
+- country: United States
+  area: Kentucky
+  locationFactor: 63.333
+- country: United States
+  area: Mississippi
+  locationFactor: 63.333
+- country: United States
+  area: Everywhere else, Tennessee
+  locationFactor: 63.333
+- country: United States
+  area: Nashville, Tennessee
+  locationFactor: 68.889
+- country: United States
+  area: Arkansas
+  locationFactor: 63.333
+- country: United States
+  area: Louisiana
+  locationFactor: 63.333
+- country: United States
+  area: Oklahoma
+  locationFactor: 63.333
+- country: United States
+  area: Everywhere else, Texas
+  locationFactor: 63.333
+- country: United States
+  area: Dallas, Texas
+  locationFactor: 80.000
+- country: United States
+  area: Houston, Texas
+  locationFactor: 68.889
+- country: United States
+  area: Austin, Texas
+  locationFactor: 80.000
+- country: United States
+  area: San Antonio, Texas
+  locationFactor: 74.444
+- country: United States
+  area: Arizona
+  locationFactor: 63.333
+- country: United States
+  area: Everywhere else, Colorado
+  locationFactor: 68.889
+- country: United States
+  area: Denver, Colorado
+  locationFactor: 74.444
+- country: United States
+  area: Idaho
+  locationFactor: 63.333
+- country: United States
+  area: New Mexico
+  locationFactor: 63.333
+- country: United States
+  area: Montana
+  locationFactor: 63.333
+- country: United States
+  area: Salt Lake City, Utah
+  locationFactor: 68.889
+- country: United States
+  area: Everywhere else, Utah
+  locationFactor: 63.333
+- country: United States
+  area: Everywhere else, Nevada
+  locationFactor: 63.333
+- country: United States
+  area: Las Vegas, Nevada
+  locationFactor: 68.889
+- country: United States
+  area: Wyoming
+  locationFactor: 63.333
+- country: United States
+  area: Alaska
+  locationFactor: 63.333
+- country: United States
+  area: Everywhere else, California
+  locationFactor: 74.444
+- country: United States
+  area: Sacramento, California
+  locationFactor: 74.444
+- country: United States
+  area: San Francisco, California
+  locationFactor: 100.000
+- country: United States
+  area: Santa Barbara, California
+  locationFactor: 74.733
+- country: United States
+  area: Los Angeles, California
+  locationFactor: 80.011 
+- country: United States
+  area: Santa Cruz, California
+  locationFactor: 77.056
+- country: United States
+  area: San Diego, California
+  locationFactor: 75.000
+- country: United States
+  area: Hawaii
+  locationFactor: 67.389
+- country: United States
+  area: Everywhere else, Oregon
+  locationFactor: 63.333
+- country: United States
+  area: Portland, Oregon
+  locationFactor: 74.444
+- country: United States
+  area: Everywhere else, Washington
+  locationFactor: 63.333
+- country: United States
+  area: Seattle, Washington
+  locationFactor: 89.983
+- country: United States
+  area: Bellingham, Washington
+  locationFactor: 74.444
+- country: Canada
+  area: Alberta
+  locationFactor: 50.278
+- country: Canada
+  area: Vancouver, British Columbia
+  locationFactor: 57.367
+- country: Canada
+  area: Everywhere else, British Columbia
+  locationFactor: 50.972
+- country: Canada
+  area: Manitoba
+  locationFactor: 45.0
+- country: Canada
+  area: New Brunswick
+  locationFactor: 41.111
+- country: Canada
+  area: Newfoundland and Labrador
+  locationFactor: 42.139
+- country: Canada
+  area: Northwest Territories
+  locationFactor: 41.111
+- country: Canada
+  area: Nova Scotia
+  locationFactor: 45.667
+- country: Canada
+  area: Nunavut
+  locationFactor: 41.111
+- country: Canada
+  area: Toronto, Ontario
+  locationFactor: 54.444
+- country: Canada
+  area: Everywhere else, Ontario
+  locationFactor: 47.378
+- country: Canada
+  area: Prince Edward Island
+  locationFactor: 41.111
+- country: Canada
+  area: Quebec
+  locationFactor: 44.278
+- country: Canada
+  area: Saskatchewan
+  locationFactor: 45.8
+- country: Canada
+  area: Yukon
+  locationFactor: 41.111
+- country: Bermuda
+  area: All
+  locationFactor: 95.444
+- country: Bahamas
+  area: All
+  locationFactor: 50.778
+- country: Dominican Republic
+  area: All
+  locationFactor: 41.111
+- country: Jamaica
+  area: All
+  locationFactor: 41.111
+- country: Puerto Rico
+  area: All
+  locationFactor: 45.622
+- country: Cuba
+  area: All
+  locationFactor: 41.111
+- country: Trinidad and Tobago
+  area: All
+  locationFactor: 41.111
+- country: El Salvador
+  area: All
+  locationFactor: 41.111
+- country: Guatemala
+  area: All
+  locationFactor: 41.111
+- country: Mexico
+  area: Everywhere else
+  locationFactor: 26.722 # location factor: 41.111, country_factor: 0.65
+- country: Mexico
+  area: Mexico City
+  locationFactor: 26.722 # location factor: 41.111, country_factor: 0.65
+- country: Costa Rica
+  area: All
+  locationFactor: 41.778
+- country: Nicaragua
+  area: All
+  locationFactor: 41.778
+- country: Panama
+  area: All
+  locationFactor: 51.278
+- country: Suriname
+  area: All
+  locationFactor: 41.111
+- country: Venezuela
+  area: All
+  locationFactor: 41.111
+- country: Paraguay
+  area: All
+  locationFactor: 41.111
+- country: Colombia
+  area: All
+  locationFactor: 41.111
+- country: Ecuador
+  area: All
+  locationFactor: 41.111
+- country: Argentina
+  area: All
+  locationFactor: 41.111
+- country: Chile
+  area: All
+  locationFactor: 34.944 # location factor: 41.111, country_factor: 0.85
+- country: Peru
+  area: All
+  locationFactor: 41.111
+- country: Uruguay
+  area: All
+  locationFactor: 41.161
+- country: Brazil
+  area: Sao Paulo
+  locationFactor: 35.983 # location factor: 42.333, country_factor: 0.85
+- country: Brazil
+  area: Rio de Janerio
+  locationFactor: 36.739 # location factor: 43.222, country_factor: 0.85
+- country: Brazil
+  area: Everywhere else
+  locationFactor: 34.944 # location factor: 41.111, country_factor: 0.85
+- country: Algeria
+  area: All
+  locationFactor: 41.111
+- country: Egypt
+  area: All
+  locationFactor: 41.111
+- country: Libya
+  area: All
+  locationFactor: 41.333
+- country: Morocco
+  area: All
+  locationFactor: 41.111
+- country: Tunisia
+  area: All
+  locationFactor: 41.111
+- country: Uganda
+  area: All
+  locationFactor: 41.111
+- country: Rwanda
+  area: All
+  locationFactor: 41.111
+- country: Zimbabwe
+  area: All
+  locationFactor: 41.111
+- country: Kenya
+  area: All
+  locationFactor: 41.111
+- country: Ethiopia
+  area: All
+  locationFactor: 45.906
+- country: Tanzania
+  area: All
+  locationFactor: 44.072
+- country: Angola
+  area: All
+  locationFactor: 120.056
+- country: Namibia
+  area: All
+  locationFactor: 41.683
+- country: Ghana
+  area: All
+  locationFactor: 55.944
+- country: South Africa
+  area: Everywhere else
+  locationFactor: 41.111
+- country: South Africa
+  area: Cape Town
+  locationFactor: 45.539
+- country: Nigeria
+  area: All
+  locationFactor: 47.394
+- country: Kazakhstan
+  area: All
+  locationFactor: 41.111
+- country: Uzbekistan
+  area: All
+  locationFactor: 41.111
+- country: China
+  area: All
+  locationFactor: 33.664 # location factor: 51.006, country_factor: 0.66
+- country: Hong Kong
+  area: All
+  locationFactor: 75.928
+- country: South Korea
+  area: All
+  locationFactor: 48.561
+- country: Japan
+  area: All
+  locationFactor: 56.278
+- country: Mongolia
+  area: All
+  locationFactor: 42.644
+- country: Taiwan
+  area: All
+  locationFactor: 42.644
+- country: Brunei Darussalam
+  area: All
+  locationFactor: 43.25
+- country: Cambodia
+  area: All
+  locationFactor: 42.056
+- country: Singapore
+  area: All
+  locationFactor: 75.111
+- country: Indonesia
+  area: Everywhere else
+  locationFactor: 41.111
+- country: Indonesia
+  area: Jakarta
+  locationFactor: 44.278
+- country: Malaysia
+  area: All
+  locationFactor: 41.111
+- country: Philippines
+  area: Makati/Manila
+  locationFactor: 48.056
+- country: Philippines
+  area: Everywhere else
+  locationFactor: 41.111
+- country: Thailand
+  area: Bangkok
+  locationFactor: 44.039
+- country: Thailand
+  area: Everywhere else
+  locationFactor: 41.111
+- country: Vietnam
+  area: All
+  locationFactor: 41.111
+- country: Nepal
+  area: All
+  locationFactor: 41.111
+- country: Bangladesh
+  area: All
+  locationFactor: 41.111
+- country: Iran
+  area: All
+  locationFactor: 42.444
+- country: Maldives
+  area: All
+  locationFactor: 48.278
+- country: Pakistan
+  area: All
+  locationFactor: 41.111
+- country: Sri Lanka
+  area: All
+  locationFactor: 41.111
+- country: India
+  area: Mumbai
+  locationFactor: 31.942 # location factor: 42.589, country_factor: 0.75
+- country: India
+  area: Everywhere else
+  locationFactor: 30.833 # location factor: 41.111, country_factor: 0.75
+- country: Armenia
+  area: All
+  locationFactor: 41.111
+- country: Georgia
+  area: All
+  locationFactor: 41.111
+- country: Azerbaijan
+  area: All
+  locationFactor: 41.111
+- country: Cyprus
+  area: All
+  locationFactor: 43.95
+- country: Jordan
+  area: All
+  locationFactor: 41.111
+- country: Saudi Arabia
+  area: All
+  locationFactor: 41.111
+- country: Turkey
+  area: All
+  locationFactor: 41.111
+- country: Iraq
+  area: All
+  locationFactor: 42.167
+- country: Lebanon
+  area: All
+  locationFactor: 52.556
+- country: Israel
+  area: All
+  locationFactor: 63.333
+- country: Oman
+  area: All
+  locationFactor: 51.778
+- country: Bahrain
+  area: All
+  locationFactor: 51.778
+- country: Qatar
+  area: All
+  locationFactor: 60.222
+- country: United Arab Emirates
+  area: All
+  locationFactor: 62.089
+- country: Bulgaria
+  area: All
+  locationFactor: 41.111
+- country: Moldova
+  area: All
+  locationFactor: 41.111
+- country: Romania
+  area: All
+  locationFactor: 41.111
+- country: Russia
+  area: Everywhere else
+  locationFactor: 24.667 # location factor: 41.111, country_factor: 0.6
+- country: Russia
+  area: Moscow
+  locationFactor: 28.804 # location factor: 48.006, country_factor: 0.6
+- country: Belarus
+  area: All
+  locationFactor: 41.111
+- country: Ukraine
+  area: All
+  locationFactor: 26.722 # location factor: 41.111, country_factor: 0.65
+- country: Slovakia
+  area: All
+  locationFactor: 42.128
+- country: Hungary
+  area: All
+  locationFactor: 41.111
+- country: Poland
+  area: All
+  locationFactor: 33.315 # location factor: 41.644, country_factor: 0.8
+- country: Czech Republic
+  area: Everywhere else
+  locationFactor: 37.0 # location factor: 41.111, country_factor: 0.9
+- country: Czech Republic
+  area: Prague
+  locationFactor: 39.035 # location factor: 43.372, country_factor: 0.9
+- country: Denmark
+  area: Everywhere else
+  locationFactor: 49.0
+- country: Denmark
+  area: Copenhagen
+  locationFactor: 57.561
+- country: Finland
+  area: Everywhere else
+  locationFactor: 44.639
+- country: Finland
+  area: Helsinki
+  locationFactor: 52.111
+- country: Iceland
+  area: All
+  locationFactor: 61.056
+- country: Ireland
+  area: Everywhere else
+  locationFactor: 51.05
+- country: Ireland
+  area: Dublin
+  locationFactor: 63.039
+- country: Norway
+  area: All
+  locationFactor: 57.106
+- country: Sweden
+  area: Stockholm
+  locationFactor: 53.878
+- country: Sweden
+  area: Everywhere else
+  locationFactor: 46.344
+- country: Latvia
+  area: All
+  locationFactor: 41.111
+- country: Lithuania
+  area: All
+  locationFactor: 41.111
+- country: Estonia
+  area: All
+  locationFactor: 41.111
+- country: United Kingdom
+  area: Northern Ireland
+  locationFactor: 51.05 # match Everywhere else, Ireland
+- country: United Kingdom
+  area: Wales
+  locationFactor: 39.161 # location factor: 46.072, country_factor: 0.85
+- country: United Kingdom
+  area: London, England
+  locationFactor: 62.806 # location factor: 73.889, country_factor: 0.85
+- country: United Kingdom
+  area: Bristol, England
+  locationFactor: 43.869 # location factor: 51.611, country_factor: 0.85
+- country: United Kingdom
+  area: Everywhere else, England
+  locationFactor: 40.347 # location factor: 47.467, country_factor: 0.85
+- country: United Kingdom
+  area: Scotland
+  locationFactor: 41.301 # location factor: 48.589, country_factor: 0.85
+- country: Albania
+  area: All
+  locationFactor: 41.111
+- country: Bosnia and Herzegovina
+  area: All
+  locationFactor: 41.111
+- country: Croatia
+  area: All
+  locationFactor: 41.111
+- country: Greece
+  area: All
+  locationFactor: 41.111
+- country: Italy
+  area: Everywhere else
+  locationFactor: 42.428
+- country: Italy
+  area: Rome
+  locationFactor: 52.339
+- country: Italy
+  area: Milan
+  locationFactor: 52.256
+- country: Italy
+  area: Florence
+  locationFactor: 45.933
+- country: Malta
+  area: All
+  locationFactor: 50.117
+- country: Montenegro
+  area: All
+  locationFactor: 41.111
+- country: Portugal
+  area: Everywhere else
+  locationFactor: 40.1 # location factor: 42.211, country_factor: 0.95
+- country: Portugal
+  area: Lisbon
+  locationFactor: 44.185 # location factor: 46.511, country_factor: 0.95
+- country: Serbia
+  area: All
+  locationFactor: 41.111
+- country: Slovenia
+  area: All
+  locationFactor: 41.111
+- country: Spain
+  area: Everywhere else
+  locationFactor: 41.933
+- country: Spain
+  area: Palma De Mallorca
+  locationFactor: 45.122
+- country: Spain
+  area: Madrid
+  locationFactor: 47.65
+- country: Spain
+  area: Barcelona
+  locationFactor: 47.994
+- country: Spain
+  area: Bilbao
+  locationFactor: 45.989
+- country: Macedonia
+  area: All
+  locationFactor: 41.111
+- country: Kosovo
+  area: All
+  locationFactor: 41.111
+- country: Austria
+  area: All
+  locationFactor: 48.389
+- country: Belgium
+  area: All
+  locationFactor: 48.994
+- country: France
+  area: Paris
+  locationFactor: 56.511
+- country: France
+  area: Everywhere else
+  locationFactor: 46.511
+- country: Germany
+  area: Everywhere else
+  locationFactor: 49.444
+- country: Germany
+  area: Munich/Nuremberg
+  locationFactor: 54.672
+- country: Germany
+  area: Ruhrgebiet
+  locationFactor: 55.767
+- country: Germany
+  area: Frankfurt/Stuttgart
+  locationFactor: 55.767
+- country: Germany
+  area: Cologne/Dusseldorf
+  locationFactor: 55.767
+- country: Germany
+  area: Hamburg/Bremen
+  locationFactor: 49.611
+- country: Germany
+  area: Berlin/Leipzig
+  locationFactor: 55.000
+- country: Luxembourg
+  area: All
+  locationFactor: 63.406
+- country: Netherlands
+  area: Everywhere else
+  locationFactor: 40.639 # location factor: 47.811, country_factor: 0.85
+- country: Netherlands
+  area: Amsterdam
+  locationFactor: 51.218 # location factor: 60.256, country_factor: 0.85
+- country: Switzerland
+  area: Everywhere else
+  locationFactor: 85.556
+- country: Switzerland
+  area: Geneva
+  locationFactor: 91.111
+- country: Switzerland
+  area: Zug/Zurich
+  locationFactor: 91.111
+- country: Australia
+  area: Western Australia
+  locationFactor: 54.222
+- country: Australia
+  area: Everywhere else, Queensland
+  locationFactor: 46.833
+- country: Australia
+  area: Brisbane, Queensland
+  locationFactor: 56.5
+- country: Australia
+  area: Northern Territory
+  locationFactor: 55.228
+- country: Australia
+  area: South Australia
+  locationFactor: 49.722
+- country: Australia
+  area: Everywhere else, New South Wales
+  locationFactor: 52.783
+- country: Australia
+  area: Sydney, New South Wales
+  locationFactor: 66.861
+- country: Australia
+  area: Everywhere else, Victoria
+  locationFactor: 54.556
+- country: Australia
+  area: Melbourne, Victoria
+  locationFactor: 54.556
+- country: Australia
+  area: Tasmania
+  locationFactor: 47.056
+- country: Australia
+  area: Australian Capital Territory
+  locationFactor: 55.278
+- country: New Zealand
+  area: Everywhere else
+  locationFactor: 52.006
+- country: New Zealand
+  area: Auckland
+  locationFactor: 55.0
+- country: New Caledonia
+  area: All
+  locationFactor: 52.783
+- country: Andorra
+  area: All
+  locationFactor: 45.000

@@ -1,0 +1,815 @@
+# Ordered alphabetically **by job description URL**
+
+# This file is used to set the benchmarks for the compensation calculator.
+
+- title: "Accountant"
+  description: /job-families/finance/accountant/
+  levels: basic
+  salary: 93000
+  apply:
+  open: false
+
+- title: "Accounting Manager"
+  description: /job-families/finance/accounting-manager/
+  levels: manager_basic
+  salary: 130200
+  apply:
+  open: false
+
+- title: "Accounting Operations Manager"
+  description: /job-families/finance/accounting-operations-manager/
+  levels: manager_basic
+  salary: 130200
+  apply:
+  open: false
+
+- title: "Technical Accounting Manager"
+  description: /job-families/finance/technical-accounting-manager/
+  levels: manager_basic
+  salary: 165000
+  apply:
+  open: false
+
+- title: "General Ledger Accountant"
+  description: /job-families/finance/general-ledger-accountant/
+  levels: basic
+  salary: 93000
+  apply:
+  open: false
+
+- title: "Account Based Marketing Manager"
+  description: /job-families/marketing/account-based-marketing-manager/
+  levels: field_marketing_basic
+  salary: 130000
+  apply:
+  open: false
+
+- title: "Accounting & External Reporting Manager"
+  description: /job-families/finance/accounting-and-external-reporting-manager
+  levels: manager_basic
+  salary: 135000
+  apply:
+  open: false
+
+- title: "Accounts Payable"
+  description: /job-families/finance/accounts-payable-specialist/
+  levels: basic
+  salary: 71000
+  apply:
+  open: false
+
+- title: "Analyst Relations Manager"
+  description: /job-families/marketing/analysts-relations-manager/
+  levels: basic
+  salary: 129000
+  apply:
+  open: false
+
+- title: "Awareness Campaign Manager"
+  description: /job-families/marketing/awareness-campaign-manager
+  levels: marketing_basic
+  salary: 107000
+  apply:
+  open: false
+
+- title: "Test Automation Engineer"
+  description: /job-families/engineering/test-automation-engineer/
+  levels: engineering_ic
+  salary: 131000
+  apply:
+  open: false
+
+- title: "Backend Engineer"
+  description: /job-families/engineering/backend-engineer/
+  levels: engineering_ic
+  salary: 160000
+  apply:
+  open: false
+
+- title: "Billing Specialist"
+  description: /job-families/finance/billing-specialist/
+  levels: basic
+  salary: 90000
+  apply:
+  open: false
+
+- title: "Brand Designer"
+  description: /job-families/marketing/brand-designer/
+  levels: marketing_basic
+  salary: 110000
+  apply:
+  open: false
+
+- title: "IT Business Systems Analyst"
+  description: /job-families/finance/business-system-analyst
+  levels: business_system_analyst
+  salary: 111000
+  apply:
+  open: false
+
+- title: "Candidate Experience Specialist"
+  description: /job-families/people-ops/candidate-experience-specialist
+  levels: ic_basic
+  salary: 77000
+  apply:
+  open: false
+
+- title: "Code Contributor Program Manager"
+  description: /job-families/marketing/code-contributor-program-manager/
+  levels: marketing_basic
+  salary: 121000
+  apply:
+  open: false
+
+- title: "Community Advocate"
+  description: /job-families/marketing/community-advocate/
+  levels: basic
+  salary: 85000
+  apply:
+  open: false
+
+- title: "Contract Manager"
+  description: /job-families/legal/contract-manager/
+  levels: basic
+  salary: 118000
+  apply:
+  open: false
+
+- title: "Culture Curator"
+  description: /job-families/marketing/culture-curator/
+  levels: basic
+  salary: 95000
+  apply:
+  open: false
+
+- title: "Database Reliability Engineer"
+  description: /job-families/engineering/database-reliability-engineer/
+  levels: engineering_ic
+  salary: 180000
+  apply:
+  open: false
+
+- title: "Editor"
+  description: /job-families/marketing/editor/
+  levels: marketing_editor
+  salary: 85000
+  apply:
+  open: false
+
+- title: "Expense Specialist"
+  description: /job-families/finance/expense-specialist/
+  levels: basic
+  salary: 55000
+  apply:
+  open: false
+
+- title: "Content Marketing"
+  description: /job-families/marketing/content-marketing/
+  levels: marketing_basic
+  salary: 100000
+  apply:
+  open: false
+
+- title: "Corporate Development Analyst"
+  description: /job-families/product/corporate-development/
+  levels: basic
+  salary: 120000
+  apply:
+  open: false
+
+- title: "Corporate Events Manager"
+  description: /job-families/marketing/corporate-events-manager/
+  levels: marketing_basic
+  salary: 92000
+  apply:
+  open: false
+
+- title: "Data Analyst"
+  description: /job-families/finance/data-analyst/
+  levels: basic
+  salary: 117000
+  apply:
+  open: false
+
+- title: "Data Engineer"
+  description: /job-families/finance/data-engineer/
+  levels: basic
+  salary: 117000
+  apply:
+  open: false
+
+- title: "Database Engineer"
+  description: /job-families/engineering/database-engineer/
+  levels: engineering_ic
+  salary: 124000
+  apply:
+  open: false
+
+- title: "Deal Desk"
+  description: /job-families/sales/deal-desk/
+  levels: basic
+  salary: 100000
+  apply:
+  open: false
+
+- title: "Designer"
+  description: /job-families/marketing/designer/
+  levels: basic
+  salary: 107000
+  apply:
+  open: false
+
+- title: "Digital Production Manager"
+  description: /job-families/marketing/digital-production-manager/
+  levels: marketing_basic
+  salary: 106000
+  apply:
+  open: false
+
+- title: "Production Designer"
+  description: /job-families/marketing/production-designer/
+  levels: marketing_basic
+  salary: 95000
+  apply:
+  open: false
+
+- title: "Diversity and Inclusion Partner"
+  description: /job-families/people-ops/diversity-inclusion-partner/
+  levels: basic
+  salary: 120000
+  apply:
+  open: false
+
+- title: "Education Program Manager"
+  description: /job-families/marketing/education-program-manager/
+  levels: marketing_basic
+  salary: 122000
+  apply:
+  open: true
+
+- title: "Employment Branding Lead"
+  description: /job-families/people-ops/employment-branding-specialist/
+  levels: basic
+  salary: 104000
+  apply:
+  open: false
+
+- title: "Engineering Management, Infrastructure"
+  description: /job-families/engineering/engineering-management-infrastructure/
+  levels: false
+  salary: 252000
+  apply:
+  open: false
+
+- title: "Engineering Management, Quality"
+  description: /job-families/engineering/engineering-management-quality/
+  levels: false
+  salary: 183400
+  apply:
+  open: false
+
+- title: "Executive Business Administrator"
+  description: /job-families/people-ops/executive-business-administrator/
+  levels: basic
+  salary: 97000
+  apply:
+  open: false
+
+- title: "Evangelist Program Manager"
+  description: /job-families/marketing/evangelist-program-manager/
+  levels: marketing_basic
+  salary: 122000
+  apply:
+  open: false
+
+- title: "Facility Security Officer"
+  description: /job-families/engineering/facility-security-officer/
+  levels: engineering_ic
+  salary: 160000 # Map to Security Engineer
+  apply:
+  open: false
+
+- title: "Field Marketing Manager"
+  description: /job-families/marketing/field-marketing-manager/
+  levels: field_marketing_basic
+  salary: 130000
+  apply:
+  open: false
+
+- title: "Field Marketing Manager, Public Sector"
+  description: /job-families/marketing/field-marketing-manager-public-sector/
+  levels: field_marketing_basic
+  salary: 136500 #Includes 5% additive for federal roles
+  apply:
+  open: false
+
+- title: "Financial Analyst"
+  description: /job-families/finance/financial-analyst/
+  levels: basic
+  salary: 95000
+  apply:
+  open: false
+
+- title: "Finance Business Partner, Non-Sales"
+  description: /job-families/finance/finance-business-partner/
+  levels: basic
+  salary: 121000
+  apply:
+  open: false
+
+- title: "Finance Business Partner, Sales"
+  description: /job-families/finance/finance-business-partner-sales/
+  levels: basic
+  salary: 140000
+  apply:
+  open: false
+
+- title: "Financial Planning and Analysis"
+  description: /job-families/finance/finance-planning-and-analysis/
+  levels: basic
+  salary: 124000
+  apply:
+  open: false
+
+- title: "Frontend Engineer"
+  description: /job-families/engineering/frontend-engineer/
+  levels: engineering_ic
+  salary: 131000
+  apply:
+  open: false
+
+- title: "Frontend Engineering Manager"
+  description: /job-families/engineering/frontend-engineering-manager/
+  levels: false
+  salary: 183400
+  apply:
+  open: false
+
+- title: "Fullstack Engineer"
+  description: /job-families/engineering/fullstack-engineer/
+  levels: engineering_ic
+  salary: 160000
+  apply:
+  open: false
+
+- title: "People Ops Fullstack Engineer"
+  description: /job-families/people-ops/people-ops-fullstack-engineer/
+  levels: basic
+  salary: 160000
+  apply:
+  open: false
+
+- title: "Engineering Manager, Growth"
+  description: /job-families/engineering/engineering-management-growth/
+  levels: false
+  salary: 224000
+  apply:
+  open: false
+
+- title: "Global Compliance Manager"
+  description: /job-families/legal/global-compliance-manager/
+  levels: basic
+  salary: 111000
+  apply:
+  open: false
+
+- title: "Global Programs Manager"
+  description: /job-families/marketing/global-programs-manager/
+  levels: marketing_basic
+  salary: 130000
+  apply:
+  open: false
+
+- title: "Illustrator"
+  description: /job-families/marketing/illustrator/
+  levels: basic
+  salary: 74000
+  apply:
+  open: false
+
+- title: "Internal Audit Manager"
+  description: /job-families/finance/internal-audit-manager/
+  levels: manager_basic
+  salary: 140000
+  apply:
+  open: false
+
+- title: "Internal Auditor"
+  description: /job-families/finance/senior-internal-auditor/
+  levels: basic
+  salary: 100000
+  apply:
+  open: false
+
+- title: "Internal Strategy Consultant" # Staff Level Position
+  description: /job-families/chief-executive-officer/internal-strategy-consultant/
+  levels: false
+  salary: 163800 # 117000 x 1.4
+  apply:
+  open: false
+
+- title: "IT Operations System Engineer"
+  description: /job-families/finance/it-operations-system-engineer/
+  levels: basic
+  salary: 109000
+  apply:
+  open: false
+
+- title: "IT Manager"
+  description: /job-families/finance/manager-it/
+  levels: manager_basic
+  salary: 140000
+  apply:
+  open: false
+
+- title: "IT Helpdesk Analyst"
+  description: /job-families/finance/it-helpdesk-analyst/
+  levels: basic
+  salary: 88000
+  apply:
+  open: false
+
+- title: "Learning and Development Partner"
+  description: /job-families/people-ops/learning-development-specialist/
+  levels: basic
+  salary: 120000
+  apply:
+  open: false
+
+- title: "Manager, Recruiting Operations"
+  description: /job-families/people-ops/manager-recruiting-operations/
+  levels: manager_basic
+  salary: 135000
+  apply:
+  open: false
+
+- title: "Marketing Operations Manager"
+  description: /job-families/marketing/marketing-operations-manager/
+  levels: marketing_basic
+  salary: 107000
+  apply:
+  open: false
+
+- title: "Marketing Program Manager"
+  description: /job-families/marketing/marketing-program-manager/
+  levels: marketing_basic
+  salary: 117000
+  apply:
+  open: false
+
+- title: "Marketing Web Developer/Designer"
+  description: /job-families/marketing/marketing-web-developer-designer/
+  levels: basic
+  salary: 120000
+  apply:
+  open: false
+
+- title: "Online Growth Manager"
+  description: /job-families/marketing/digital-marketing-programs-manager/
+  levels: marketing_basic
+  salary: 132000
+  apply:
+  open: false
+
+- title: "Open Source Program Manager"
+  description: /job-families/marketing/open-source-program-manager/
+  levels: marketing_basic
+  salary: 122000
+  apply:
+  open: true
+
+- title: "Operations Analyst"
+  description: /job-families/engineering/operations-analyst/
+  levels: engineering_ic
+  salary: 102000
+  apply:
+  open: false
+
+- title: "Paralegal"
+  description: /job-families/legal/paralegal/
+  levels: payroll_basic
+  salary: 95000
+  apply:
+  open: false
+
+- title: "Payroll"
+  description: /job-families/finance/payroll-specialist/
+  levels: payroll_basic
+  salary: 72000
+  apply:
+  open: false
+
+- title: "People Operations Analyst"
+  description: /job-families/people-ops/people-ops-analyst/
+  levels: basic
+  salary: 103000
+  apply:
+  open: false
+
+- title: "People Operations Business Partner"
+  description: /job-families/people-ops/people-business-partner/
+  levels: basic
+  salary: 130000
+  apply:
+  open: false
+
+- title: "People Operations Generalist"
+  description: /job-families/people-ops/people-ops-generalist/
+  levels: people_ops_generalist
+  salary: 96000
+  apply:
+  open: false
+
+- title: "Public Relations"
+  description: /job-families/marketing/pr-manager/
+  levels: marketing_basic
+  salary: 95000
+  apply:
+  open: false
+
+- title: "Procurement Manager"
+  description: /job-families/finance/procurement-manager/
+  levels: manager_basic
+  salary: 155000
+  apply:
+  open: false
+
+- title: "Product Manager"
+  description: /job-families/product/product-manager/
+  levels: product_manager
+  salary: 178000
+  apply:
+  open: false
+
+- title: "Product Operations"
+  description: /job-families/product/product-operations/
+  levels: basic
+  salary: 139000
+  apply:
+  open: false
+
+- title: "Product Marketing Manager"
+  description: /job-families/marketing/product-marketing-manager/
+  levels: product_marketing
+  salary: 148000
+  apply:
+  open: false
+
+- title: "Product Marketing Manager, Public Sector"
+  description: /job-families/marketing/product-marketing-manager-public-sector/
+  levels: product_marketing
+  salary: 155400
+  apply:
+  open: false
+
+- title: "Product Marketing Management"
+  description: /job-families/marketing/product-marketing-management/
+  levels: false
+  salary: 207200
+  apply:
+  open: false
+
+
+- title: "Program Manager, Sales and Customer Enablement"
+  description: /job-families/sales/program-manager-sales-and-customer-enablement/
+  levels: basic
+  salary: 120000 # Tied to Sales Training Facilitator
+  apply:
+  open: false
+
+- title: "Recruiter"
+  description: /job-families/people-ops/recruiter/
+  levels: recruiting_basic
+  salary: 109000
+  apply:
+  open: false
+
+- title: "Recruiting Sourcer"
+  description: /job-families/people-ops/recruiting-sourcer/
+  levels: recruiting_basic
+  salary: 105000
+  apply:
+  open: false
+
+- title: "Reference Program Manager"
+  description: /job-families/marketing/reference-program-manager/
+  levels: basic
+  salary: 117000
+  apply:
+  open: false
+
+- title: "Business Systems Administrator"
+  description: /job-families/sales/business-systems-administrator/
+  levels: basic
+  salary: 110000
+  apply:
+  open: false
+
+- title: "Business Systems Engineer"
+  description: /job-families/sales/business-systems-engineer/
+  levels: basic
+  salary: 150000
+  apply:
+  open: false
+
+- title: "Sales Analytics Analyst"
+  description: /job-families/sales/sales-analytics-analyst-jf/
+  levels: basic
+  salary: 112000
+  apply:
+  open: false
+
+- title: "Sales Commissions Manager"
+  description: /job-families/sales/sales-commissions-manager/
+  levels: manager_basic
+  salary: 150000
+  apply:
+  open: false
+
+- title: "Sales Systems Manager" # (Business Systems Admin Manager)
+  description: /job-families/sales/senior-manager-sales-systems/
+  levels: manager_basic
+  salary: 154000
+  apply:
+  open: false
+
+- title: "Sales Training Facilitator"
+  description: /job-families/sales/sales-training-facilitator-sales-and-customer-enablement/
+  levels: basic
+  salary: 120000
+  apply:
+  open: false
+
+- title: "Sales Operations"
+  description: /job-families/sales/sales-operations/
+  levels: basic
+  salary: 115000
+  apply:
+  open: false
+
+- title: "Security Engineer"
+  description: /job-families/engineering/security-engineer/
+  levels: engineering_ic
+  salary: 162000
+  apply:
+  open: false
+
+- title: "Security Management"
+  description: /job-families/engineering/security-management/
+  levels: false
+  salary: 226800
+  apply:
+  open: false
+
+- title: "Security Analyst, Anti-Abuse"
+  description: /job-families/engineering/security-analyst/
+  levels: engineering_ic
+  salary: 118000
+  apply:
+  open: false
+
+- title: "Solutions Manager"
+  description: /job-families/sales/sr-solutions-manager/
+  levels: engineering_ic
+  salary: 178000
+  apply:
+  open: false
+
+- title: "Vulnerability Research Engineer"
+  description: /job-families/engineering/vulnerability-research-engineer/
+  levels: engineering_ic
+  salary: 175000
+  apply:
+  open: false
+
+- title: "GitLab.com Support"
+  description: /job-families/engineering/dotcom-support/
+  levels: engineering_ic
+  salary: 82000
+  apply:
+  open: false
+
+- title: "Site Reliability Engineer"
+  description: /job-families/engineering/site-reliability-engineer/
+  levels: engineering_ic
+  salary: 180000
+  apply:
+  open: false
+
+- title: "Social Marketing Manager"
+  description: /job-families/marketing/social-marketing-manager/
+  levels: marketing_basic
+  salary: 92004
+  apply:
+  open: false
+
+- title: "SOX Compliance Analyst"
+  description: /job-families/finance/sox-compliance-analyst/
+  levels: basic
+  salary: 109000
+  apply:
+  open: false
+
+
+- title: "Support Engineer"
+  description: /job-families/engineering/support-engineer/
+  levels: engineering_ic
+  salary: 120000
+  apply:
+  open: false
+
+- title: "Support Operations Specialist"
+  description: /job-families/engineering/support-operations-specialist/
+  levels: engineering_ic
+  salary: 80000
+  apply:
+  open: false
+
+- title: "Talent Coordinator"
+  description: /job-families/people-ops/talent-coordinator/
+  levels: basic
+  salary: 77000
+  apply:
+  open: false
+
+- title: "Talent Operations Specialist"
+  description: /job-families/people-ops/talent-operations-specialist/
+  levels: basic
+  salary: 89000
+  apply:
+  open: false
+
+- title: "Technical Marketing Manager"
+  description: /job-families/marketing/technical-marketing-manager
+  levels: product_marketing
+  salary: 162800
+  apply:
+  open: false
+
+- title: "Technical Writer"
+  description: /job-families/product/technical-writer/
+  levels: engineering_ic
+  salary: 108000
+  apply:
+  open: false
+
+- title: "Technical Writing Manager"
+  description: /job-families/product/technical-writing-manager/
+  levels: false
+  salary: 151200
+  apply:
+  open: false
+
+- title: "Technology Partner Manager"
+  description: /job-families/alliances/alliances-manager/
+  levels: basic
+  salary: 126000
+  apply:
+  open: false
+
+- title: "Threat Intelligence Engineer"
+  description: /job-families/engineering/threat-intelligence-engineer/
+  levels: engineering_ic
+  salary: 166000
+  apply:
+  open: false
+
+- title: "Product Designer"
+  description: /job-families/engineering/product-designer/
+  levels: engineering_ic
+  salary: 145000
+  apply:
+  open: false
+
+- title: "UX Manager"
+  description: /job-families/engineering/ux-management/
+  levels: false
+  salary: 203000
+  apply:
+  open: false
+
+- title: "UX Researcher"
+  description: /job-families/engineering/ux-researcher/
+  levels: ux_researcher_basic
+  salary: 145000
+  apply:
+  open: false
+
+- title: "Web Content Manager"
+  description: /job-families/people-ops/web-content-manager/
+  levels: basic
+  salary: 118000
+  apply:
+  open: false
+
+- title: "Website Full Stack Developer"
+  description: /job-families/marketing/marketing-full-stack-developer/
+  levels: basic
+  salary: 125000
+  apply:
+  open: false
+
+
+
+
+  # Ordered alphabetically **by job description URL**
