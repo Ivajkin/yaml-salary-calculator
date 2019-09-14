@@ -6,3 +6,11 @@
 2. Clone current repository, cd into it
 
 3. Run ```npm start```
+
+# Or using npm
+
+```npm i -g yaml-salary-calculator```
+
+and then:
+
+```salary-get```
