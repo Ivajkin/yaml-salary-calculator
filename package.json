@@ -1,6 +1,6 @@
 {
   "name": "yaml-salary-calculator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "gitlab salary calculator",
   "main": "index.js",
   "bin": {
